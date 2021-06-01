@@ -1,0 +1,99 @@
+<resources>
+    //Profile
+    <string name="app_name">EdemAppActivity</string>
+    <string name="usename">Enrie John B. Edem</string>
+    <string name="account">enriejohnedem@gmail.com</string>
+    <string name="toolbar_title">Edem App</string>
+    <string name="course">Bachelor of Science in Information Technology</string>
+    <string name="h1">Contact</string>
+    <string name="email">Emails</string>
+    <string name="e1">enriejohnedem@gmail.com</string>
+    <string name="e2">enriejohn.edem@bisu.edu.ph</string>
+    <string name="number">Numbers</string>
+    <string name="num1">0950-465-6709</string>
+    <string name="num2">0910-235-8542</string>
+    <string name="objective">OBJECTIVE</string>
+    <string name="objectives">To experience working in a company wherein my skills in the field of Programming and Software Development can be used for growth and development of my personal skills as well as the company</string>
+    <string name="personalinf">PERSONAL INFORMATION	</string>
+    <string name="inf1">Age: 	20</string>
+    <string name="inf2">Gender: 	Male</string>
+    <string name="inf3">Civil Status: 	Single</string>
+    <string name="inf4">Birthdate:	March 31, 2000</string>
+    <string name="inf5">Birthplace:	Tagbilaran City</string>
+    <string name="inf6">Nationality: 	Filipino</string>
+    <string name="inf7">Religion:	Roman Catholic</string>
+    <string name="inf8">Height:	5’7” 	</string>
+    <string name="inf9">Weight: 	48 kg.</string>
+    <string name="educ">EDUCATIONAL ATTAINMENT</string>
+    <string name="educ1">SENIOR HIGH: ICT- COMPUTER SYSTEM SERVICING
+                                Carmel Academy
+		         Del Carmen Norte, Bohol
+                                  2017-18
+</string>
+    <string name="educ2">JUNIOR HIGH: Cong. Pablo Malasarte National High School
+		          Cabad, Balilihan, Bohol
+		          2015-16
+</string>
+    <string name="educ3">ELEMENTARY: Cabad-Candasig Elementary School
+		         Cabad, Balilihan, Bohol
+		         2011-12
+</string>
+    <string name="educ4">College: Bohol Island State University - Bachelor of Science in Information Technology
+		         Magsija, Balilihan, Bohol
+		         2018-current
+</string>
+    <string name="skl">SKILLS</string>
+    <string name="skl1">Java Development</string>
+    <string name="skl2">Web Development</string>
+    <string name="skl3">C++ Development</string>
+    <string name="skl4">C Development</string>
+
+    //Navigation
+    <string name="navigation_drawer_open">Open Navigation Drawer</string>
+    <string name="navigation_drawer_close">Close Navigation Drawer</string>
+
+    //Fragment
+    <string name="item0">Home</string>
+    <string name="item1">Profile</string>
+    <string name="item2">Button Demo</string>
+    <string name="item3">Chip Demo</string>
+    <string name="item4">Checkbox Demo</string>
+    <string name="item5">RadioButton Demo</string>
+    <string name="item6">Toggle Demo</string>
+    <string name="item7">CRUD Demo</string>
+    <string name="item8">Dark Mode</string>
+
+    //Button
+    <string name="Note">Enter Name Here</string>
+    <string name="sub">Submit</string>
+
+    //Chip / Chip Group
+    <string name="question">Which of These Languages you Know?</string>
+    <string name="result">Result</string>
+    <string name="a1">Java</string>
+    <string name="a2">Python</string>
+    <string name="a3">C++</string>
+    <string name="a4">Visual Basic</string>
+    <string name="a5">JavaScript</string>
+
+    //Check Box
+    <string name="question1">State your Gender</string>
+    <string name="gen1">Male</string>
+    <string name="gen2">Female</string>
+
+    //Radio Button
+    <string name="def">Click Radio Button for Audio Setting in your phone</string>
+    <string name="r1">Silent</string>
+    <string name="r2">Ringer</string>
+    <string name="r3">Vibrate</string>
+
+    //Toggle Button
+    <string name="b1">Bluetooth</string>
+
+    //CRUD DEMO
+    <string name="CRUD_TITLE">CRUD DEMO</string>
+    <string name="Input_Name">Enter Name Below</string>
+    <string name="btnAdd">Add</string>
+    <string name="btnUpdate">Update</string>
+    <string name="btnClear">Clear</string>
+</resources>
